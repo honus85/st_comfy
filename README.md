@@ -10,3 +10,5 @@ Update server_port and listen_path to suit your own needs
 Todo: 
    - fix asyncio bug with sidebar
    - use websockets to get latest image 
+
+   ![alt text](image.png)
